@@ -18,7 +18,7 @@ A Python script that implements a genetic algorithm to help travelers optimize t
 7. **End of Execution:** Once the program has completed its optimization process and displayed the optimal packing solution, you can proceed with packing your suitcase based on the provided information. This solution will ensure you get the most value out of your luggage while staying within the weight limits.
 
 An example input:
-```shell
+```bash
 Enter item 1: shoes
 Enter the weight of shoes (kg): 1
 Enter the value of shoes (VALUE: 1-100): 2
